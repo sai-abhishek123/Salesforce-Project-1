@@ -1,16 +1,16 @@
-# Salesforce DX Project: Next Steps
+<!-- # Salesforce DX Project: Next Steps -->
 
-Project Overview: Customer Support Case Management System
+# Project Title: Customer Support Case Management System
+
 Project Name: Enhanced Customer Support Case Management System (ECSCMS)
 
 Project Description:
-    The goal of this project is to enhance the current Salesforce implementation to better support the Customer Support team. The enhancements will focus on improving case management, automating processes, and providing better insights into customer interactions and support activities.
+The goal of this project is to enhance the current Salesforce implementation to better support the Customer Support team. The enhancements will focus on improving case management, automating processes, and providing better insights into customer interactions and support activities.
 
 ## Project Requirements
 
-Detailed Requirements
-    1. Case Creation and Assignment Automation
-        Objective: Streamline the process of case creation and assignment to reduce manual intervention and improve response times.
+Detailed Requirements 1. Case Creation and Assignment Automation
+Objective: Streamline the process of case creation and assignment to reduce manual intervention and improve response times.
 
     Requirements:
 
@@ -105,7 +105,7 @@ Detailed Requirements
 ## Sprints
 
 Sprint 1: Initial Setup and Case Creation Automation
-    Sprint Goal: Establish the foundation for case management and automate the case creation process.
+Sprint Goal: Establish the foundation for case management and automate the case creation process.
 
     Deliverables:
 
@@ -134,8 +134,9 @@ Sprint 1: Initial Setup and Case Creation Automation
         Integrate with social media platforms.
         Configure assignment and escalation rules.
         Initial testing of case creation and assignment flows.
+
 Sprint 2: Case Resolution and Closure Workflow
-    Sprint Goal: Establish standardized workflows for resolving and closing cases efficiently.
+Sprint Goal: Establish standardized workflows for resolving and closing cases efficiently.
 
     Deliverables:
 
@@ -154,8 +155,9 @@ Sprint 2: Case Resolution and Closure Workflow
             Link Knowledge Base articles to resolution steps.
             Design and integrate the closure checklist.
             Set up and test the customer feedback mechanism.
+
 Sprint 3: Enhanced Reporting and Dashboards
-    Sprint Goal: Provide comprehensive reporting and dashboards for visibility into support activities.
+Sprint Goal: Provide comprehensive reporting and dashboards for visibility into support activities.
 
     Deliverables:
 
@@ -174,8 +176,9 @@ Sprint 3: Enhanced Reporting and Dashboards
         Design and build case management reports.
         Create dashboards for managers and agents.
         Schedule and test report delivery.
+
 Sprint 4: Customer Interaction History and Insights
-    Sprint Goal: Provide a detailed view of customer interactions to support personalized service.
+Sprint Goal: Provide a detailed view of customer interactions to support personalized service.
 
     Deliverables:
 
@@ -193,7 +196,7 @@ Sprint 4: Customer Interaction History and Insights
         Develop the customer insights view with historical data and predictions.
 
 Sprint 5: Knowledge Base Integration and Mobile Accessibility
-    Sprint Goal: Enhance case management with integrated knowledge resources and mobile access.
+Sprint Goal: Enhance case management with integrated knowledge resources and mobile access.
 
     Deliverables:
         Knowledge Base Integration:
@@ -213,7 +216,7 @@ Sprint 5: Knowledge Base Integration and Mobile Accessibility
         Test push notifications for mobile updates.
 
 Sprint 6: Security, Compliance, and Finalization
-    Sprint Goal: Ensure security and compliance, and finalize the project for deployment.
+Sprint Goal: Ensure security and compliance, and finalize the project for deployment.
 
     Deliverables:
 
